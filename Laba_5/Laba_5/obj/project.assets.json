@@ -15,11 +15,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\elisa\\source\\repos\\Laba_5\\Laba_5\\Laba_5.csproj",
+      "projectUniqueName": "C:\\Users\\elisa\\Documents\\GitHub\\Laba_5\\Laba_5\\Laba_5\\Laba_5.csproj",
       "projectName": "Laba_5",
-      "projectPath": "C:\\Users\\elisa\\source\\repos\\Laba_5\\Laba_5\\Laba_5.csproj",
+      "projectPath": "C:\\Users\\elisa\\Documents\\GitHub\\Laba_5\\Laba_5\\Laba_5\\Laba_5.csproj",
       "packagesPath": "C:\\Users\\elisa\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\elisa\\source\\repos\\Laba_5\\Laba_5\\obj\\",
+      "outputPath": "C:\\Users\\elisa\\Documents\\GitHub\\Laba_5\\Laba_5\\Laba_5\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",

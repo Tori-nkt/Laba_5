@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "7LZAZYzQ/Vd/hG4t2TDi0Is0AWONTajR9tEq95FOS1xEwfddO4bZSdsGCNw/9HTUPn6HPAQMD/6pTCAbhP/9Gg==",
+  "dgSpecHash": "4geuLEvrG76UbnIIWj2qYD2wi9DDYUk8ZOaAI6fiXj2y0XblsY/oW2gODqz2LOUuWPcXsXZQg/AK/mcaClvN/g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\elisa\\source\\repos\\Laba_5\\Laba_5\\Laba_5.csproj",
+  "projectFilePath": "C:\\Users\\elisa\\Documents\\GitHub\\Laba_5\\Laba_5\\Laba_5\\Laba_5.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\elisa\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\3.1.2\\microsoft.aspnetcore.app.ref.3.1.2.nupkg.sha512"
   ],
